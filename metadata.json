@@ -1,0 +1,5 @@
+{
+  "name": "Finan-AI: Smart Personal Finance Tracker",
+  "description": "An intuitive personal finance application that allows users to upload bank statements, automatically categorizes expenses using AI, and provides interactive visualizations and spending forecasts.",
+  "requestFramePermissions": []
+}
